@@ -1,4 +1,3 @@
-# 2FA
 <!DOCTYPE html>
 <html lang="en">
 <head>
